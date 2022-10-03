@@ -1,0 +1,11 @@
+c:\users\corbi_000\documents\visual studio 2015\Projects\MB\MB\bin\Debug\MB.exe.config
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\bin\Debug\MB.exe
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\bin\Debug\MB.pdb
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.csprojResolveAssemblyReference.cache
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.Form1.resources
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.Properties.Resources.resources
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.csproj.GenerateResource.Cache
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.exe
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.pdb
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.login.resources
+C:\Users\corbi_000\documents\visual studio 2015\Projects\MB\MB\obj\Debug\MB.main.resources
